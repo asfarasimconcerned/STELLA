@@ -1,6 +1,6 @@
 # --- minimal, known-good to get the app online ---
 gradio>=4.0.0
-smolagents[mcp]
+smolagents[mcp,openai]
 requests
 numpy
 pandas
