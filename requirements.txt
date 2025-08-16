@@ -1,0 +1,17 @@
+# Core UI + agents
+gradio>=4.0.0
+smolagents[mcp]
+# Data & utilities
+numpy
+pandas
+scikit-learn
+requests
+beautifulsoup4
+markdownify
+# Optional (STELLA mentions these as “enhanced” features)
+mem0ai
+biopython
+rdkit-pypi
+pymed
+arxiv
+scholarly
