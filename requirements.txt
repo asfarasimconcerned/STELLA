@@ -1,17 +1,11 @@
-# Core UI + agents
+# --- minimal, known-good to get the app online ---
 gradio>=4.0.0
 smolagents[mcp]
-# Data & utilities
+requests
 numpy
 pandas
-scikit-learn
-requests
 beautifulsoup4
 markdownify
-# Optional (STELLA mentions these as “enhanced” features)
-mem0ai
-biopython
-rdkit-pypi
-pymed
 arxiv
 scholarly
+google-search-results
